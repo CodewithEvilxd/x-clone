@@ -1,6 +1,6 @@
 <h1 align="center">📱 React Native X Clone Tutorial 🚀</h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
+
 
 Welcome to the **X Clone** tutorial! In this course, you'll build a fully functional clone of the X (formerly Twitter) app using React Native — and deploy both frontend and backend with full authentication and cloud database integration.
 
